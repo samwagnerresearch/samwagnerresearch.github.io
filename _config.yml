@@ -86,9 +86,9 @@ author:
   location         : "Lausanne, Switzerland"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "sam.wagner@unil.ch"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  email            : # "sam.wagner@unil.ch"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Zurich # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
