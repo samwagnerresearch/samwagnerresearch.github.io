@@ -1,3 +1,7 @@
+Hi! My name is Sam and I am a PhD candidate in Finance at the University of Lausanne and the Swiss Finance Institute. I'm currently in my third year.
+
+My research interests lie in Information Economics with applications to Finance, in particular Asset Pricing and Market Microstructure.
+
 ---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
