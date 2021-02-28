@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ I am a third-year PhD candidate in Finance at the Swiss Finance Institute and th
 
 My research interests lie in Information Economics with applications to Finance; in particular Asset Pricing and Market Microstructure.
 
-[Download my CV](http://samwagnerresearch.github.io/files/CV.pdf)
+[Download my CV](https://samwagnerresearch.github.io/files/CV.pdf)
 
 Contact
 ======
