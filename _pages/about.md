@@ -15,12 +15,10 @@ My research interests lie in Information Economics with applications to Finance;
 
 Contact
 ======
-Extranef 252 
-Department of Finance, Ecole des HEC, University of Lausanne
-1015 Lausanne
+Extranef 252  
+Department of Finance, Ecole des HEC, University of Lausanne  
+1015 Lausanne  
 Switzerland
 
 Email: sam.wagner@unil.ch
-
-Phone: (+41) 78 919 93 08
 
