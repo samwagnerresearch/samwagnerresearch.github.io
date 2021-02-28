@@ -1,5 +1,4 @@
 ---
-<!--- layout: archive --->
 title: "Reading Group"
 permalink: /readinggroup/
 author_profile: true
