@@ -12,12 +12,10 @@ author_profile: true
 {% include base_path %}
 
 ### Work-in-Progress
-======  
 
 Soon.
 
 ### Working Papers
-======  
 
 Soon.
 
@@ -28,7 +26,6 @@ Soon.
 --->
 
 ### Publications
-======  
 
 Soon (hopefully).
 
