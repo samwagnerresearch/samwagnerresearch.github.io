@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About          "
+title                    : "Sam Wagner - "
 title_separator          : "-"
 name                     : &name "Sam Wagner"
 description              : &description "personal description"
