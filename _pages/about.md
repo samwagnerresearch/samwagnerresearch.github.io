@@ -11,11 +11,16 @@ I am a third-year PhD candidate in Finance at the Swiss Finance Institute and th
 
 My research interests lie in Information Economics with applications to Finance; in particular Asset Pricing and Market Microstructure.
 
+[Download my CV](http://academicpages.github.io/files/CV.pdf)
+
 Contact
 ======
-Address:
+Extranef 252 
+Department of Finance, Ecole des HEC, University of Lausanne
+1015 Lausanne
+Switzerland
 
-Email:
+Email: sam.wagner@unil.ch
 
-Phone Number: 
+Phone: (+41) 78 919 93 08
 
