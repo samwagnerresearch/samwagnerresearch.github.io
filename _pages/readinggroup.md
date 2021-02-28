@@ -12,6 +12,4 @@ Together with my fellow PhD student Mads Nielsen, I organize a reading group in 
 |:-------------------|:--------:|-------------:|
 | Spring/Summer 2021 | cell2    | cell3        |
 | Fall/Winter 2020   | cell5    | cell6        |
-|----------------------------------------------|
-|==============================================|
-| Foot1              | Foot2    | Foot3        |
+
