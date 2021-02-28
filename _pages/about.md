@@ -20,5 +20,6 @@ Contact
   Extranef 252<br /> Department of Finance, Ecole des HEC, University of Lausanne<br /> 1015 Lausanne <br /> Switzerland
 </address>
 
+
 sam.wagner@unil.ch
 
