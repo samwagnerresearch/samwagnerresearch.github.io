@@ -13,7 +13,9 @@ My research interests lie in Information Economics with applications to Finance;
 
 Contact
 ======
-Adress
+Address:
+
 Email:
+
 Phone Number: 
 
