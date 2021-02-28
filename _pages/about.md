@@ -20,5 +20,5 @@ Department of Finance, Ecole des HEC, University of Lausanne
 1015 Lausanne  
 Switzerland
 
-Email: sam.wagner@unil.ch
+sam.wagner@unil.ch
 
