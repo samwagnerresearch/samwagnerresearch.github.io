@@ -11,10 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-### Work-in-Progress
-
-Soon.
-
 ### Working Papers
 
 Soon.
@@ -24,6 +20,10 @@ Soon.
     {% include archive-single.html %}
   {% endfor %}
 --->
+
+### Work-in-Progress
+
+Soon.
 
 ### Publications
 
