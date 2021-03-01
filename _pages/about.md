@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a third-year PhD candidate in Finance at the Swiss Finance Institute and the University of Lausanne.
 
-My research interests lie in Information Economics with applications to Finance; in particular Asset Pricing and Market Microstructure.
+My research interests lie in Information Economics, Asset Pricing and Market Microstructure.
 
 [Download my CV](https://samwagnerresearch.github.io/files/CV.pdf)
 
